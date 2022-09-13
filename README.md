@@ -1,7 +1,7 @@
 # Bookmark chrome-extension
 created a Bookmark Chrome Extension using Javascript.
 
-# Steps to Install on Browser:
+# Steps to Install on Your Browser:
 
 1)
 ![image](https://user-images.githubusercontent.com/112558970/189939432-055287c0-f7c8-4bd7-9467-6d1cd9af8730.png)
